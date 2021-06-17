@@ -1,0 +1,601 @@
+body {
+        
+        overflow-x: hidden;
+        margin: 0;
+        padding: 0;
+        
+        }
+.black-overlay{
+    position:absolute;
+    
+    left: 0px;
+    height: 150px;
+    width: 100%;
+    background:rgba(4, 16, 12, 0.39);
+  }
+  .carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+}
+.gamewarrior{
+font-size: 28px;
+margin-left: 170px;
+}
+.navlist
+{
+margin-left: 70px;
+}
+.navbar-nav
+{
+margin-left: 100px;
+}
+.gameimg{
+ position: relative;
+
+}
+.gameimgtxt{
+ position: absolute;
+ color: white;
+ margin-top: -100px;
+margin-left: 20px;
+font-size: 22px;
+font-weight: bold;
+}
+.gameimgtxt1{
+ position: absolute;
+ color: white;
+ margin-top: -100px;
+margin-left: 20px;
+}
+.gameimgtxt2{
+ position: absolute;
+ color: white;
+ margin-top: -30px;
+ margin-left: 20px;
+ color: #e5e5e5;
+}
+.gameheight{
+    padding: 0px;
+    height: 400px;
+    
+}
+
+.gamestra
+{
+margin-top: 20px;
+ margin-left: 30px;
+ position: absolute;
+ color: white;
+ height: 30px;
+ width: 80px;
+ background: 
+#ff205f;
+
+
+}
+.recentstra
+{
+    margin-top: 20px;
+ margin-left: 30px;
+ position: absolute;
+ color: white;
+ height: 25px;
+ width: 60px;
+ background: #ff205f;
+}
+.recentstra2
+{
+    margin-top: 20px;
+ margin-left: 30px;
+ position: absolute;
+ color: white;
+ height: 25px;
+ width: 60px;
+ background: #694eae;
+}
+.recentstra3
+{
+    margin-top: 20px;
+ margin-left: 30px;
+ position: absolute;
+ color: white;
+ height: 25px;
+ width: 90px;
+ background: #40abf5;
+}
+
+.gayabimg{
+    height: 650px;
+    margin-left: -20px;
+}
+.recentblog{
+    margin-left: 275px;
+    margin-top: -600px;
+}
+.blog1{
+    margin-left: 30px;
+}
+.kratos{
+    height: 650px;
+    position: relative;
+    margin-left: 30px;
+}
+.rrblog{
+    margin-left: 30px;
+    height: 600px;
+}
+.rrblogcard{
+    margin-left: 0px;
+}
+.rrblogimg{
+    height: 350px;
+}
+.rrcontainer{
+    
+    background-image: url('https://preview.colorlib.com/theme/gamewarrior/img/review-bg.png.webp');
+    background-repeat: no-repeat;
+  background-size: 1550px 620px;
+}
+
+
+.lpblog1{
+    margin-top: 30px;
+}
+.lpblog2{
+    margin-top: 30px;
+}
+.lpblog3{
+    margin-top: 30px;
+}
+
+.tcblog1{
+    margin-top: 30px;
+}
+.tcblog2{
+    margin-top: 23px;
+}
+.tcblog3{
+    margin-top: 23px;
+}
+.tcblog4{
+    margin-top: 23px;
+}
+.lpbox{
+display: inline-block
+}
+.tcblog{
+margin-left: 30px;
+height: 480px;
+margin-top: 50px;
+}
+.lpbox{
+    height: 480px;
+    margin-top: 50px;
+}
+.evilimg{
+    margin-left: -130px;
+    margin-top: 0px;
+    width: 490px;
+
+}
+.kratosrow
+{
+    margin-top: 100px;
+}
+
+.gamestranews1
+{
+
+line-height:2;
+
+ position: absolute;
+ color: white;
+ text-align: center;
+ padding: px;
+width: 60px;
+line-height:1.6;
+ background: 
+#ff205f;
+text-align: center;
+margin-top:7.5px ;
+}
+
+.gamestranews2
+{
+
+line-height:2;
+
+ position: absolute;
+ color: white;
+ text-align: center;
+ padding: px;
+width: 70px;
+line-height:1.6;
+ background-color: #694eae ;
+}
+
+.gamestranews3
+{
+
+line-height:2;
+
+ position: absolute;
+ color: white;
+ text-align: center;
+ padding: px;
+width: 75px;
+line-height:1.6;
+ background-color:  #4eae60;
+}
+.gamestranews4
+{
+
+line-height:2;
+
+ position: absolute;
+ color: white;
+ text-align: center;
+ padding: px;
+width: 85px;
+line-height:1.6;
+ background: 
+#ff205f;
+}
+.ln{
+font-size: 24px;
+margin-top: 18px;
+}
+.lnbox{
+    text-align: right;background-color: #ffb320;
+    color: white;
+    height:75px ;
+}
+.carbigheadline{
+    font-size: 55px;
+}
+.carsmallheadline{
+    margin-top: 20px;
+    font-size: 15px;
+
+}
+.carlinebox{
+    margin-top: -430px;
+}
+.carbigword
+{
+    color: #ffb320;
+}
+.carobtn{
+
+    color: black;background-color: 
+#ffb320; padding: 12px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 20px 2px;
+  cursor: pointer;
+  border-radius: 22px;
+
+}
+.carbigheadline1{
+    margin-top: -30px;
+    font-size: 55px;
+
+}
+.carsmallheadline1{
+    margin-top: 40px;
+    font-size: 15px;
+
+}
+
+
+
+
+/*media quenryyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy*/
+
+@media (min-width: 320px)  and (max-width: 480px)
+{
+.gamewarrior{
+font-size:15px;
+margin-left: 20px;
+}
+.navbar-nav
+{
+margin-left: 20px;
+}
+
+.navlist
+{
+margin-left: 0px;
+}
+.navbar-toggler
+{
+	margin-right: 20px;
+}
+.gameimgtxt{
+
+ color: white;
+ margin-top: -80px;
+margin-left: 10px;
+font-size: 17px;
+
+}
+.gameimgtxt1{
+ 
+ color: white;
+ margin-top: -50px;
+margin-left: 20px;
+font-size: 13px;
+}
+.gameheight{
+    padding: 20px;
+    margin: 0px;
+    height: 550px;
+    border: 2px solid black;
+
+    
+
+    }
+
+.gayab{
+    display: none;
+    
+}
+
+.recentblog{
+    margin-left: 0px;
+    margin-top: 00px;
+
+}
+.blog1{
+    margin: 15px;
+
+}
+
+.rrblog{
+    margin-left: 00px;
+    margin-top: 20px;
+    height: 500px;
+}
+.rrblogcard{
+    margin-left: 0px;
+}
+.rrblogimg{
+    height: 350px;
+}
+.rrcontainer
+{
+    margin-top: 0px;
+}
+
+.lpbox{
+height: 500px;
+margin-top: 20px;
+}
+.tcblog{
+    margin-top: 30px;
+    margin-left: 0px;
+}
+.lpblog1{
+ margin-top: 30px;   
+}
+.lpblog2{
+ margin-top: 30px;   
+}
+.lpblog3{
+ margin-top: 30px;   
+}
+.evilimg{
+    margin-left: 0px;
+    margin-top: 0px;
+    width: 310px;
+
+}
+.ln{
+font-size: 14px;
+margin-top: px;
+}
+
+
+.carbigheadline{
+    font-size: 16px;
+    color: white;
+}
+.carlinebox{
+    margin-top: 10px;
+}
+
+.carsmallheadline{
+ margin-top: 0px;
+    font-size: 6px;
+}
+.carbigword
+{
+    color: #ffb320;
+}
+.carobtn
+{
+  display:none;
+}
+.carbigheadline1{
+    margin-bottom:30px;
+    font-size: 15px;
+
+}
+.carsmallheadline1{
+    margin-top: 10px;
+    font-size: 6px;
+
+}
+
+
+
+}
+
+
+
+
+@media (min-width: 480px)  and (max-width: 768px)
+{
+.gamewarrior{
+font-size:23px;
+margin-left: 20px;
+}
+.navbar-nav
+{
+margin-left: -40px;
+}
+.gameimgtxt{
+ position: absolute;
+ color: black;
+ margin-top: -170px;
+
+font-size: 20px;
+}
+.gameimgtxt1{
+ position: absolute;
+ color: white;
+ margin-top: -100px;
+
+font-size: 14px;
+}
+.gameimgtxt2{
+ position: absolute;
+ color: white;
+ margin-top: -30px;
+color: #e5e5e5;
+ font-size: 12px;
+}
+.gameheight{
+    padding:20px;
+    margin: 0px;
+    height: 500px;
+
+
+    }
+.gayab{
+    display: none;
+    
+}
+.recentblog{
+    margin-left: 80px;
+    margin-top: 100px;
+
+}
+.blog1{
+    margin: 15px;
+
+}
+.rrblog{
+    margin-left: 30px;
+    margin-top: 30px;
+    height: 500px;
+}
+.rrblogcard{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.rrblogimg{
+    height: 350px;
+}
+.rrcontainer
+{
+    margin-top: 0px;
+}
+.lpbox{
+    height: 480px;
+    margin-top: 20px;
+}
+
+.tcblog{
+    margin-top: 30px;
+    height: 480px;
+    margin-left: 0px;
+}
+.evilimg{
+    margin-left: 0px;
+    margin-top: 0px;
+    width: 410px;
+
+}
+.ln{
+font-size: 20px;
+margin-top: px;
+}
+.carbigheadline{
+    font-size: 28px;
+    color: white;
+}
+.carlinebox{
+    margin-top: 10px;
+}
+
+.carsmallheadline{
+ margin-top: 0px;
+    font-size: 10px;
+}
+.carbigword
+{
+    color: #ffb320;
+}
+.carobtn
+{
+     color: black;background-color: 
+#ffb320; padding: 6px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 10px 1px;
+  cursor: pointer;
+  border-radius: 22px;
+
+}
+.carbigheadline1{
+    margin-bottom:30px;
+    font-size: 25px;
+
+}
+.carsmallheadline1{
+    margin-top: 10px;
+    font-size: 7px;
+
+}
+
+
+
+
+}
+
+
+
+
+
+@media (min-width: 768px)  and (max-width: 1500px)
+{
+.gayab{
+    display: none;
+    
+}
+.recentblog{
+    margin-left: 100px;
+    margin-top: 100px;
+
+}
+.blog1{
+    margin: 15px;
+
+}
+.rrcontainer
+{
+    margin-top: 0px;
+}
+
+}
+
+@media (min-width: 1280px)  and (max-width: 1500px)
+{
+.evilimg{
+
+}
+}
